@@ -3,6 +3,20 @@ My XKB dots for mimicing German (US) layout, known from GNOME and KDE, on Hyprla
 
 
 ---
+## Table of Contents
+- [FAQ](#faq)
+  - [What it does?](#what-it-does)
+  - [What is X keyboard Extension?](#what-is-x-keyboard-extension)
+  - [Why?](#why)
+- [Mapping](#mapping)
+  - [Umlauts (Vocal mutations)](#umlauts-vocal-mutations)
+  - [Sharp S (Eszett) and EURO sign](#sharp-s-eszett-and-euro-sign)
+- [Setup](#setup)
+  - [Hyprland](#hyprland)
+  - [Compose key (Optional)](#compose-key-optional)
+- [Removal](#removal)
+
+--- 
 
 ## FAQ
 ### What it does?
