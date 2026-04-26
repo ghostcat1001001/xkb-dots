@@ -81,6 +81,23 @@ input {
 ```
 Don't worry, if there's more content into it. We just change `layout "us"` to `layout "us_german"` and comment any variant (e.g. `variant "alt-intl"` to `// variant "alt-intl"`).
 
+**Example:**
+
+```conf
+input {
+    keyboard {
+        xkb {
+            layout "us_german" // Sets my custom xkb as the only layout 
+            // Sets my custom xkb alongside Germnan: layput "us_german,us" 
+
+            // Keep it if you only want to test the layout, or as fallback:
+            layout "us,us"
+            variant ".alt-intl"
+        }
+    }
+}
+```
+
 If you are unsure about the path, try first `grep -r "layout " ~/.config/niri" 2>/dev/null`, and if that fail, read the documentation of your dotfiles.
 
 **Log out and log in again!** Niri scans only for xkb layouts at log-in.
