@@ -65,7 +65,7 @@ git clone https://github.com/ghostcat1001001/xkb-dots.git &&
 ---
 
 ### Niri
-#### (Also works with Noctalia shall)
+**(Also works with Noctalia shall)**
 Add the following input to your dots.
 In my case, it's `~/.config/niri/cfg/input.kdl`. In most cases, you find the settings for Niri at `~/.config/niri/`.  
 Search for the following part:
@@ -88,7 +88,7 @@ If you are unsure about the path, try first `grep -r "layout " ~/.config/niri" 2
 ---
 
 ### Hyprland
-#### (how it was used to work. I stopped working on the Hyprland setup. You can attemot it but I recommend to follow the documentation of Hyprland as the devs loves to changes how things work)
+**(how it was used to work. I stopped working on the Hyprland setup. You can attemot it but I recommend to follow the documentation of Hyprland as the devs loves to changes how things work)**
 Add the following input to your dots.
 In my case, it's `~/.config/hypr/config/input.conf`, as I use a modular approach that lets hyprland call multiple modular config files.\
 The default by vanilla Hyprland is `~/.config/hypr/hyprland.conf`.\
