@@ -65,8 +65,8 @@ git clone https://github.com/ghostcat1001001/xkb-dots.git &&
 ---
 
 ### Niri
-**(Also works with Noctalia shall)**
-Add the following input to your dots.
+**(Also works with Noctalia shall)**  
+Add the following input to your dots.  
 In my case, it's `~/.config/niri/cfg/input.kdl`. In most cases, you find the settings for Niri at `~/.config/niri/`.  
 Search for the following part:
 
