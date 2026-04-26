@@ -12,7 +12,7 @@ My XKB dots for mimicing German (US) layout, known from GNOME and KDE, on Hyprla
   - [Umlauts (Vocal mutations)](#umlauts-vocal-mutations)
   - [Sharp S (Eszett) and EURO sign](#sharp-s-eszett-and-euro-sign)
 - [Setup](#setup)
-  - [Niri (including ncotalia shell)](#noctalia)
+  - [Niri (including ncotalia shell)](#niri)
   - [Hyprland](#hyprland)
   - [Compose key (Optional)](#compose-key-optional)
 - [Removal](#removal)
