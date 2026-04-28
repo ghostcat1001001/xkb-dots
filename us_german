@@ -8,6 +8,9 @@ xkb_symbols "basic" {
     key <AD09> { [ o, O, odiaeresis, Odiaeresis ] };
     key <AD07> { [ u, U, udiaeresis, Udiaeresis ] };
     key <AC02> { [ s, S, ssharp, U1E9E ] };
+    key <AC11> { [ apostrophe, quotedbl, adiaeresis, Adiaeresis ] };
+    key <AD11> { [ bracketleft, braceleft, udiaeresis, Udiaeresis ] };
+    key <AC10> { [ semicolon, colon, odiaeresis, Odiaeresis ] };
 
     include "level3(ralt_switch)"
 };
