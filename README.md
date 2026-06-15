@@ -1,6 +1,9 @@
 # xkb - Readme
 My XKB dots for mimicing German (US) layout, known from GNOME and KDE, on Hyprland, i3WM, Sway & river.
 
+# ⚠️ Project moved to [GitLab](https://gitlab.com/lumiEira/xkb-us_german). Please don't use this version any longer.
+This version is not licensed for constribution. Please, use the GitLab version of this project as it is licensed under GPL=3.0-or-later and remians active development.
+
 
 ---
 ## Table of Contents
